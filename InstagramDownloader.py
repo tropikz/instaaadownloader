@@ -914,8 +914,8 @@ class InboxHandler(object):
             elif item.item_type == "media_share":
                 self.handle_media_share(username, item)
 
-username = "USERNAME"
-password = "PASSWORD"
+username = "wetter.mp4"
+password = "wetterforthebetter"
 
 cfg = Config(Path("config.json"))
 sessionpath = Path("sessions/{u}.session".format(u = username))
