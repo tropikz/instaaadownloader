@@ -543,7 +543,7 @@ class InboxHandler(object):
         self.uploader_list = uploader
         self.uploader = self.uploader_list[0]
 
-        self.admins = ["instaagroup", "rxc0.i", "dome271"]
+        self.admins = ["tropikzzz", "noahbeastyboi", "owenhagemeister"]
 
         self.first = True
 
